@@ -25,6 +25,7 @@ This repo is case studies only. No source code.
 |---|---|---|---|
 | [Multi-Claude](projects/multi-claude.md) | Desktop app for running several Claude Code sessions, with account hot-swap even mid-session (plus Codex and Antigravity in terminal view), with Phumipat Jiranarongwat (main author). I do the macOS version | Electron, TypeScript, React | Used by his coworkers. About 4,100 tests |
 | [Thai to English novel translation](projects/novel-translation.md) | AI translation workflow for a Thai novelist | Claude, ChatGPT, Claude in Chrome | 11 books on Amazon Kindle |
+| [3D-printed pill cutter](projects/pill-cutter.md) | Two-blade cutter that cuts a tablet into thirds, rebuilt from an open design with a Python script | Python, trimesh, Bambu Studio, PETG | Three printable versions to pick the most even split |
 
 ## Skills
 
