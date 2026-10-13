@@ -9,9 +9,9 @@ This repo is case studies only. No source code.
 
 | Project | What it replaced | Stack | Result |
 |---|---|---|---|
-| [DHumanice HR and payroll](projects/dhumanice-hr.md) | ByteHR | Next.js, Expo React Native, Supabase, react-pdf | Whole company (26 staff, 7 departments) clocks in, requests leave and gets paid through it. iOS and Android apps in the stores |
+| [DHumanice HR and payroll](projects/dhumanice-hr.md) | ByteHR | Next.js, Expo React Native, Supabase, react-pdf | Whole company (7 departments) clocks in, requests leave and gets paid through it. iOS and Android apps in the stores |
 | [Tequila task management](projects/tequila.md) | ClickUp (rollout in progress) | Next.js, Supabase, pg_cron, Web Push | Boards, automation rules, recurring tasks, email digest, browser push. About 3,000 automated tests |
-| [Maverix Club loyalty CRM](projects/maverix-club-crm.md) | EGG Digital MiniCRM | Next.js, LINE LIFF, Supabase, SMS OTP | About 1,900 members imported. Cancelled a 360,000 THB/yr contract |
+| [Maverix Club loyalty CRM](projects/maverix-club-crm.md) | EGG Digital's CRM | Next.js, LINE LIFF, Supabase, SMS OTP | About 1,900 members imported. Cancelled a 360,000 THB/yr contract |
 | [Brembo product registration](projects/brembo-registration.md) | Nothing (new) | Next.js, LINE LIFF, Supabase, satori | Stock team scans serials, customers register in LINE and get a warranty certificate |
 | [Italjet digital service book](projects/italjet-service-book.md) | Paper service books | Next.js, LINE LIFF, Supabase | Dealers log services, owners see their bike history in LINE. In user testing |
 | [QuickBooks connector for Claude](projects/quickbooks-mcp.md) | Manual QuickBooks exports | Node.js, MCP SDK, OAuth 2.0, Supabase | 32 tools the accounting team used from Claude. Since retired |

@@ -6,7 +6,7 @@ _Member rewards screen inside LINE (test data)._
 
 ## The problem
 
-Our member program ran on EGG Digital MiniCRM inside LINE, at 360,000 THB/yr. The product was being discontinued anyway. We needed members to keep their place in the program and marketing to keep sending broadcasts, with a fixed launch date.
+Our member program ran on EGG Digital's CRM inside LINE, at 360,000 THB/yr. The product was being discontinued anyway. We needed members to keep their place in the program and marketing to keep sending broadcasts, with a fixed launch date.
 
 ## What I built
 
